@@ -9,7 +9,7 @@ Deploying Docker image of Web Application to AWS ECS cluster with Auto Scaling c
 2. AWS CLI is installed
 
 ## Architecture
-
+![alt text](Drawing.png)
 ## Instruction
 
 1. Upload docker image to ECR: create repository, authenticate docker with AWS and push tagged docker image
